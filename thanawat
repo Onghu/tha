@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css.css">
+    <title>Thnawat</title>
+</head>
+<body>
+    <header>
+       
+    </header>
+    <video autoplay muted loop id="myVideo">
+        <source src="item/videoplayback.mp4" type="video/mp4">
+    </video>
+    <div class="main_content">    
+        <h1 align="center">นายธนวัฒน์ หลี่</h1> <br>
+       <center><img src="c:\Users\User\Downloads\378248211_870782184578613_1364596014397585135_n.jpg" width="300" </center><br>
+       <h1 align="center">คติประจำใจ</h1> <br>
+       <h3 align="center">พัฒนาตัวเองอยู่เสมอ</h3> <br>
+       <h1 align="center">ผลงานที่ชื่นชอบที่สุด</h1> <br>
+       <center><img src="c:\Users\User\Downloads\378176552_1044494176727257_3205242601150231677_n.jpg" width="300"</center>
+       <h1 align="center">คณะที่ต้องการเข้าศึกษา - มหาวิทยาลัย</h1> <br>
+       <h3 align="center">วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยพระจอมเกล้าธนบุรี</h3> <br>
+    </body>
+</html>
